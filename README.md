@@ -1,11 +1,9 @@
 ### <div align="center">Hi there 👋, I'm Ibrahim</div>  
   
 
-- ✈️ Telegram: @beg1337  
-  
+- ✈️ Telegram: @beg1337    
 
-- 🚀 Telegram chanel: https://t.me/code_chronicles6  
-  
+- 🚀 Telegram chanel: https://t.me/code_chronicles6
 
 - 🔨 Programming since 2020  
   
