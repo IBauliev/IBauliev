@@ -1,7 +1,7 @@
 ### <div align="center">Hi there 👋, I'm Ibrahim</div>  
   
 
-- ✈️ Telegram: @beg1337    
+- ✈️ Telegram: @bauliev
 
 - 🚀 Telegram chanel: https://t.me/code_chronicles6
 
