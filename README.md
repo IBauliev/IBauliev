@@ -33,9 +33,9 @@ public:
 
 
 ## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=radical)](https://github.com/IBauliev)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IBauliev&show_icons=true&theme=radical)](https://github.com/IBauliev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=radical&hide=html,css)](https://github.com/IBauliev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IBauliev&layout=compact&theme=radical&hide=html,css)](https://github.com/IBauliev)
 
 ## 📫 Контакты
 - 📧 Email: ibauliev@gmail.com
