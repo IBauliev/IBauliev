@@ -43,5 +43,5 @@ public:
 
 ---
 
-⭐️ From [ВАШ_НИК](https://github.com/IBauliev) with `std::cout << "❤️";`
+⭐️ From [IBauliev](https://github.com/IBauliev) with `std::cout << "❤️";`
 ```
