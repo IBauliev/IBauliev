@@ -9,9 +9,9 @@
 
 class Bio {
 public:
-    static constexpr const char* name = "[ВСТАВЬТЕ ИМЯ]";
+    static constexpr const char* name = "Ibrahim";
     static constexpr const char* focus = "C++/Qt, Backend, AI";
-    static constexpr int years_exp = [ВСТАВЬТЕ ОПЫТ];
+    static constexpr int years_exp = 4;
     
     static void skills() {
         std::cout << "▪ C++ (11/14/17/20)\n";
