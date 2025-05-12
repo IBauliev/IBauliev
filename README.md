@@ -1,26 +1,64 @@
-### <div align="center">Hi there 👋, I'm Ibrahim</div>  
-  
-
-- ✈️ Telegram: @bauliev
-
-- 🚀 Telegram chanel: https://t.me/code_chronicles6
-
-- 🔨 Programming since 2020  
-  
-
-<br/>  
 
 
-## My Skill Set  
-</td><td valign="top" width="33%">
+```markdown
+# 👨‍💻 Обо мне
+Привет! Я **[ВСТАВЬТЕ ИМЯ]**, C++/Qt разработчик с опытом в создании высокопроизводительных приложений. Также занимаюсь разработкой backend-решений и реализацией алгоритмов ИИ на C++.
 
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
-</div>
-<br/>  
+```cpp
+#include <developer.h>
+
+class Bio {
+public:
+    static constexpr const char* name = "[ВСТАВЬТЕ ИМЯ]";
+    static constexpr const char* focus = "C++/Qt, Backend, AI";
+    static constexpr int years_exp = [ВСТАВЬТЕ ОПЫТ];
+    
+    static void skills() {
+        std::cout << "▪ C++ (11/14/17/20)\n";
+        std::cout << "▪ Qt 5/6 (Widgets/QML)\n";
+        std::cout << "▪ Backend (REST APIs, Databases)\n";
+        std::cout << "▪ AI/ML implementations\n";
+        std::cout << "▪ Python (для скриптов и ML)\n";
+    }
+};
+```
+
+## 🛠 Технологический стек
+### Основные навыки
+- **C++**: Modern C++, STL, Boost, Multithreading
+- **Qt**: Widgets, QML, Networking, QtCore
+- **Backend**: REST APIs, SQL (SQLite, PostgreSQL), Docker
+- **AI/ML**: Реализация алгоритмов на C++, интеграция с Python
+- **Инструменты**: Git, CMake, Conan, CI/CD, PyTorch (базово)
+
+## 🚀 Проекты
+### [Название проекта](ссылка)
+Краткое описание (1-2 предложения). Пример:  
+"Кроссплатформенное приложение для анализа данных с использованием Qt и Python-бекенда."
+
+### [Другой проект](ссылка)
+Еще одно краткое описание.
+
+## 📊 GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=radical)](https://github.com/ВАШ_НИК)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=radical&hide=html,css)](https://github.com/ВАШ_НИК)
+
+## 📫 Контакты
+- 💼 LinkedIn: [ссылка]
+- 📧 Email: ваш@email.com
+- 📱 Telegram: @ваш_ник
+- 🌐 Сайт: [если есть]
+
+## 💡 Интересный факт
+[Например]:  
+"Оптимизировал алгоритм на C++ и ускорил обработку данных в 15 раз"  
+или  
+"Разработал систему, которая предсказывает [что-то интересное] с точностью 95%"
+
+---
+
+⭐️ From [ВАШ_НИК](https://github.com/ВАШ_НИК) with `std::cout << "❤️";`
+```
+
+Просто замените все места в квадратных скобках ([...]) своими данными. Статистика GitHub будет подтягиваться автоматически после публикации (замените ВАШ_НИК на ваш GitHub username).
