@@ -17,7 +17,7 @@ public:
         std::cout << "▪ C++ (11/14/17/20)\n";
         std::cout << "▪ Qt 5/6 (Widgets/QML)\n";
         std::cout << "▪ Backend (REST APIs, Databases)\n";
-        std::cout << "▪ AI/ML implementations\n";
+        std::cout << "▪ AI/ML implementations\n";/.
         std::cout << "▪ Python (для скриптов и ML)\n";
     }
 };
