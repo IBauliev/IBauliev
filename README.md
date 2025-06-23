@@ -32,11 +32,6 @@ public:
 - **Инструменты**: Git, CMake, Conan, CI/CD, PyTorch (базово)
 
 
-## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IBauliev&show_icons=true&theme=radical)](https://github.com/IBauliev)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IBauliev&layout=compact&theme=radical&hide=html,css)](https://github.com/IBauliev)
-
 ## 📫 Контакты
 - 📧 Email: ibauliev@gmail.com
 - 📱 Telegram: @bauliev
