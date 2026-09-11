@@ -1,42 +1,19 @@
+<div align="center">
 
+# 🇷🇺 ZА ПОБЕДУ! ZА РОССИЮ! ZА ПУТИНА! 🇷🇺
 
-```markdown
-# 👨‍💻 Обо мне
-Привет! Я Ибрагим, C++/Qt разработчик с опытом в создании высокопроизводительных приложений. Также занимаюсь разработкой backend-решений и реализацией алгоритмов ИИ на C++.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png" width="300" alt="Флаг РФ"/>
 
-```cpp
-#include <developer.h>
+### ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡
 
-class Bio {
-public:
-    static constexpr const char* name = "Ibrahim";
-    static constexpr const char* focus = "C++/Qt, Backend, AI";
-    static constexpr int years_exp = 4;
-    
-    static void skills() {
-        std::cout << "▪ C++ (11/14/17/20)\n";
-        std::cout << "▪ Qt 5/6 (Widgets/QML)\n";
-        std::cout << "▪ Backend (REST APIs, Databases)\n";
-        std::cout << "▪ AI/ML implementations\n";/.
-        std::cout << "▪ Python (для скриптов и ML)\n";
-    }
-};
-```
+**Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z**
 
-## 🛠 Технологический стек
-### Основные навыки
-- **C++**: Modern C++, STL, Boost, Multithreading
-- **Qt**: Widgets, QML, Networking, QtCore
-- **Backend**: REST APIs, SQL (SQLite, PostgreSQL), Docker
-- **AI/ML**: Реализация алгоритмов на C++, интеграция с Python
-- **Инструменты**: Git, CMake, Conan, CI/CD, PyTorch (базово)
+### 🛡️ СИЛЬНАЯ РОССИЯ — ВЕЛИКАЯ ДЕРЖАВА! 🛡️
 
-
-## 📫 Контакты
-- 📧 Email: ibauliev@gmail.com
-- 📱 Telegram: @bauliev
+</div>
 
 ---
 
-⭐️ From [IBauliev](https://github.com/IBauliev) with `std::cout << "❤️";`
-```
+## 🇷🇺 НАШ ПРЕЗИДЕНТ — ВЛАДИМИР ПУТИН 🇷🇺
+
+<div align="center">
