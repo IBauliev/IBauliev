@@ -1,22 +1,24 @@
-<!-- ===================== Z-ШАПКА ===================== -->
+<!-- ===================== БИСМИЛЛЯХ ===================== -->
 <div align="center">
 
-![Z](https://img.shields.io/badge/Z-Z-green?style=for-the-badge&labelColor=black)
-![Z](https://img.shields.io/badge/Z-Z-green?style=for-the-badge&labelColor=black)
-![Z](https://img.shields.io/badge/Z-Z-green?style=for-the-badge&labelColor=black)
-![Z](https://img.shields.io/badge/Z-Z-green?style=for-the-badge&labelColor=black)
-![Z](https://img.shields.io/badge/Z-Z-green?style=for-the-badge&labelColor=black)
+![Islam](https://img.shields.io/badge/☪️-ISLAM-green?style=for-the-badge&labelColor=black)
+![Palestine](https://img.shields.io/badge/🇵🇸-PALESTINE-green?style=for-the-badge&labelColor=red)
+![Allah](https://img.shields.io/badge/ALLAH-AKBAR-green?style=for-the-badge&labelColor=black)
+![Muhammad](https://img.shields.io/badge/☪️-MUHAMMAD-green?style=for-the-badge&labelColor=black)
+![Quran](https://img.shields.io/badge/📖-QURAN-green?style=for-the-badge&labelColor=black)
 
-# 🇷🇺 ZА ПОБЕДУ! ZА РОССИЮ! ZА ПУТИНА! 🇷🇺
+# ☪️ بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ ☪️
 
-<img src="https://flagcdn.com/w640/ru.png" width="400" alt="Флаг РФ"/>
+### Во имя Аллаха, Милостивого, Милосердного
 
-<img src="https://flagcdn.com/w320/ru.png" width="200" alt="Флаг РФ"/>
-<img src="https://flagcdn.com/w320/ru.png" width="200" alt="Флаг РФ"/>
+<img src="https://flagcdn.com/w640/ps.png" width="400" alt="Флаг Палестины"/>
 
-### ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡
+<img src="https://flagcdn.com/w320/ps.png" width="200" alt="Флаг Палестины"/>
+<img src="https://flagcdn.com/w320/ps.png" width="200" alt="Флаг Палестины"/>
 
-**Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z**
+### ☪️ ☪️ ☪️ ☪️ ☪️ ☪️ ☪️ ☪️ ☪️ ☪️ ☪️ ☪️ ☪️
+
+**اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ**
 
 </div>
 
@@ -25,26 +27,29 @@
 <!-- ===================== ВИДЖЕТЫ ===================== -->
 <div align="center">
 
-![Russia](https://img.shields.io/badge/🇷🇺-RUSSIA-red?style=for-the-badge&labelColor=blue)
-![Putin](https://img.shields.io/badge/PUTIN-НАШ_ЛИДЕР-red?style=for-the-badge&labelColor=black)
-![Z](https://img.shields.io/badge/Z-Z-Z-green?style=for-the-badge&labelColor=black)
-![Flag](https://img.shields.io/badge/FLAG-🇷🇺🇷🇺🇷🇺-white?style=for-the-badge&labelColor=red)
-![Victory](https://img.shields.io/badge/ПОБЕДА-Z-orange?style=for-the-badge&labelColor=black)
+![Palestine](https://img.shields.io/badge/🇵🇸-PALESTINE_FREE-green?style=for-the-badge&labelColor=red)
+![Islam](https://img.shields.io/badge/☪️-ISLAM-green?style=for-the-badge&labelColor=black)
+![Allah](https://img.shields.io/badge/ALLAH-AKBAR-green?style=for-the-badge&labelColor=black)
+![Quran](https://img.shields.io/badge/📖-QURAN-green?style=for-the-badge&labelColor=black)
+![Muhammad](https://img.shields.io/badge/☪️-MUHAMMAD-green?style=for-the-badge&labelColor=black)
 
-![Stars](https://img.shields.io/github/stars/your-repo?style=for-the-badge&labelColor=red&color=blue)
-![Forks](https://img.shields.io/github/forks/your-repo?style=for-the-badge&labelColor=blue&color=red)
-![Issues](https://img.shields.io/github/issues/your-repo?style=for-the-badge&labelColor=black&color=green)
-![License](https://img.shields.io/github/license/your-repo?style=for-the-badge&labelColor=red&color=blue)
+![Halal](https://img.shields.io/badge/☪️-HALAL-green?style=for-the-badge&labelColor=black)
+![Salah](https://img.shields.io/badge/🕌-SALAH-green?style=for-the-badge&labelColor=black)
+![Zakat](https://img.shields.io/badge/🕋-ZAKAT-green?style=for-the-badge&labelColor=black)
+![Sawm](https://img.shields.io/badge/🌙-SAWM-green?style=for-the-badge&labelColor=black)
+![Hajj](https://img.shields.io/badge/🕋-HAJJ-green?style=for-the-badge&labelColor=black)
 
-![Made in Russia](https://img.shields.io/badge/MADE_IN-🇷🇺_RUSSIA-red?style=for-the-badge&labelColor=blue)
-![Putin](https://img.shields.io/badge/ПУТИН-2024-red?style=for-the-badge&labelColor=black)
-![Z](https://img.shields.io/badge/Z-Z-Z-green?style=for-the-badge&labelColor=black)
+![Ummah](https://img.shields.io/badge/☪️-UMMAH-green?style=for-the-badge&labelColor=black)
+![Bismillah](https://img.shields.io/badge/☪️-BISMILLAH-green?style=for-the-badge&labelColor=black)
+![Inshaallah](https://img.shields.io/badge/☪️-INSHAALLAH-green?style=for-the-badge&labelColor=black)
 
 </div>
 
 ---
 
-<!-- ===================== Z-СТЕНА ===================== -->
+<!-- ===================== АЯТЫ ===================== -->
 <div align="center">
 
-# ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡
+# 📖 СВЯЩЕННЫЙ КОРАН 📖
+
+## ☪️ АЯТЫ ИЗ КОРАНА ☪️
