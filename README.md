@@ -9,10 +9,10 @@
 
 # 🇷🇺 ZА ПОБЕДУ! ZА РОССИЮ! ZА ПУТИНА! 🇷🇺
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png" width="400" alt="Флаг РФ"/>
+<img src="https://flagcdn.com/w640/ru.png" width="400" alt="Флаг РФ"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png" width="200" alt="Флаг РФ"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png" width="200" alt="Флаг РФ"/>
+<img src="https://flagcdn.com/w320/ru.png" width="200" alt="Флаг РФ"/>
+<img src="https://flagcdn.com/w320/ru.png" width="200" alt="Флаг РФ"/>
 
 ### ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡ Z ⚡
 
@@ -29,7 +29,7 @@
 ![Putin](https://img.shields.io/badge/PUTIN-НАШ_ЛИДЕР-red?style=for-the-badge&labelColor=black)
 ![Z](https://img.shields.io/badge/Z-Z-Z-green?style=for-the-badge&labelColor=black)
 ![Flag](https://img.shields.io/badge/FLAG-🇷🇺🇷🇺🇷🇺-white?style=for-the-badge&labelColor=red)
-![Victory](https://img.shields.io/badge/ПОБЕДА-Z-оранжевый?style=for-the-badge&labelColor=black)
+![Victory](https://img.shields.io/badge/ПОБЕДА-Z-orange?style=for-the-badge&labelColor=black)
 
 ![Stars](https://img.shields.io/github/stars/your-repo?style=for-the-badge&labelColor=red&color=blue)
 ![Forks](https://img.shields.io/github/forks/your-repo?style=for-the-badge&labelColor=blue&color=red)
