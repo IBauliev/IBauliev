@@ -9,5 +9,5 @@ C++ / Qt Engineer (Embedded)
 - Linux, Git, CMake
 
 ## Contact
-- Email: you@example.com
-- Telegram: @username
+- Email: ibauliev@gmail.com
+- Telegram: @begoogla
